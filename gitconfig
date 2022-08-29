@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = vengatasamy.ashley@gmail.com
+	name = Ashley Vengatasamy
